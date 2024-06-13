@@ -1,0 +1,11 @@
+total 60
+drwxrwxr-x  4 apisit48 apisit48  4096 Oct 13 16:13 .
+drwxr-xr-x 10 apisit48 apisit48  4096 Oct 13 14:19 ..
+drwxrwxr-x  8 apisit48 apisit48  4096 Oct 13 16:00 .git
+-rwxrwxr-x  1 apisit48 apisit48 22584 Oct 13 16:13 icsh
+-rw-rw-r--  1 apisit48 apisit48  4777 Oct 13 16:13 icsh.c
+-rw-rw-r--  1 apisit48 apisit48   134 Oct 13 14:19 Makefile
+-rw-rw-r--  1 apisit48 apisit48   529 Oct 13 14:19 README.md
+-rw-rw-r--  1 apisit48 apisit48    32 May 30 00:36 test.sh
+-rw-rw-r--  1 apisit48 apisit48     0 Oct 13 16:13 test.txt
+drwxrwxr-x  2 apisit48 apisit48  4096 Oct 13 14:22 .vscode
